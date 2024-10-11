@@ -1,31 +1,20 @@
-<html>
-  <head>
-    <h1>PORTFOLIO</h1>
-  </head>
-  <body>
-    <section>
-    <ul>
-      <li><a href="https://github.com/AbdulMaulana-QA/AbdulMaulana-QA/edit/main/README.md#about-me">About me</a></li>
-      <li>CV</li>
-      <li>Skills</li>
-      <li>Tools</li>
-      <li>Courses</li>
-      <li>Example of My Work</li>
-    </ul>
-    </section>
-    <section>
-    <h2>About me</h2>
-    <p>A highly motivated entry-level QA Software Tester with a strong foundation in ensuring product quality.
+# Portfolio
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
+  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+
+## About me
+A highly motivated entry-level QA Software Tester with a strong foundation in ensuring product quality.
 Skilled in manual testing, test case creation, execution, and bug identification. Experienced with JIRA and
 committed to contributing efficiently to the quality assurance process. Eager to learn new tools and
-technologies to further enhance testing capabilities.</p>
-    </section>
-    <section>
-    <h2>Skills</h2>
-    <p>You can find examples of the described skills in the Examples of my work section.<p>
-    <p><Strong>Manual Testing</Strong></p>
-      <li>can perform manual functional and usability testing of web applications</li>
-      <li>gained hands-on experience by testing applications created for educational purposes</li>
-    </section>
-  </body>
-    </html>
+technologies to further enhance testing capabilities.
+
+## CV
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/).
