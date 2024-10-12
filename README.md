@@ -31,17 +31,15 @@ __Test Analysis & Design__
 * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+  * plz desc
+  * plz desc
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
+  * can write requests using subqueries
   * know the difference between joins and unions and can use them in queries
 ## Tools
 
