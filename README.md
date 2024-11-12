@@ -11,7 +11,7 @@
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 
 ## About me
-A highly motivated entry-level QA Software Tester with a strong foundation in ensuring product quality.
+Highly motivated entry-level QA Software Tester with a strong foundation in ensuring product quality.
 Skilled in manual testing, test case creation, execution, and bug identification. Experienced with JIRA and
 committed to contributing efficiently to the quality assurance process. Eager to learn new tools and
 technologies to further enhance testing capabilities.
@@ -23,25 +23,34 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual Testing__
-* can perform manual functional and usability testing of web applications
-* gained hands-on experience by testing applications created for educational purposes
+* Perform manual testing of functional and usability web application
+* gain hands-on experience by testing e-commerce web applications created for educational purposes
 
 __Test Analysis & Design__
-* familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-* can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+* able to apply equivalence partitioning and boundary value analysis to generate test input data
+* able to identify test conditions into test cases
 
 __API testing__
-  * plz desc
-  * plz desc
+  * able to recognize the difference between SOAP and REST APIs
+  * know how to create test cases using the Postman tool
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
+  * create test cases and checklists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports including priority and severity.
+    
 __SQL databases__
   * can write requests using subqueries
-  * know the difference between joins and unions and can use them in queries
+  * know how to perform joins and use them in queries
+
+    
 ## Tools
+__Jira__
+  * know how to create bug reports
+  * able to create projects and track their progress
+
+__Postman__
+
+
 
 ## Courses
 
