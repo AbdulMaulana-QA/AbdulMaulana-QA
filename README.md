@@ -46,12 +46,40 @@ __SQL databases__
 ## Tools
 __Jira__
   * know how to create bug reports
+  * Know hotw to create test case and test suits
   * able to create projects and track their progress
+  
 
 __Postman__
+  * Understand Rest API with Postman
+  * Store and manage API specification, documentation, test cases and results
+  * organize API work and collaborate to team
 
+__TestRail__
+  * know how to create test cases and test suits
+  * know how to use dashboards and statistics
+
+__Intelij IDEA__
+  * understand the basic concepts of automation frameworks
+  * Create test Automation framework step by step
 
 
 ## Courses
+_Manual QA / Software Testing Certification_
+Growia Education
+- manual testing
+- JIRA
+- Test Case Documentation & Execution
+- API testing by Postman
+- Basic Automation testing by Intelij IDEA
+
+[Link to the certificate](https://drive.google.com)
 
 ## Examples of My Work
+
+### Test cases and work in JIRA
+- [The training webshop](https://5nags3iycnjh547.growia.education/) was used to create demo test case
+  * test case for sign up and Login. Check [The Google Sheets document here]()
+  * 
+  
+
