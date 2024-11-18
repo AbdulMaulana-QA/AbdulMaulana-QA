@@ -7,8 +7,6 @@
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in Jira](#test-cases-and-work-in-Jira)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 
 ## About me
 Highly motivated entry-level QA Software Tester with a strong foundation in ensuring product quality.
@@ -73,13 +71,24 @@ Growia Education
 - API testing by Postman
 - Basic Automation testing by Intelij IDEA
 
-[Link to the certificate](https://drive.google.com)
+[Link to the certificate](https://drive.google.com/file/d/1DmeY62jezgSzHRNqqs4yYq7vg_ly1azy/view?usp=sharing)
+[Link to the certificate](https://drive.google.com/file/d/1bYhP1rLiBi3cW2iTdogE7tBmUC2Y7Rxv/view?usp=sharing)
+[Link to the certificate](https://drive.google.com/file/d/1zKDEMBCKLOw_l7Ezdg4J1J2iCsFr69Ia/view?usp=sharing)
 
 ## Examples of My Work
 
 ### Test cases and work in JIRA
 - [The training webshop](https://5nags3iycnjh547.growia.education/) was used to create demo test case
-  * test case for sign up and Login. Check [The Google Sheets document here]()
-  * 
+  * All Test Cases for GrowiaSHop eCommerce. Check [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1kBmHAIX5J_HwZGe3mzz9CqauXsa9b5EvYX_a1GtatkE/edit?usp=sharing)
+  * Summary of test cases GrowiaShop eCommerce. Check [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1VWlcgBEAu--cP12V0pvOm2hvgFzetOAYtlmeUVuwtzE/edit?usp=sharing)
+  * Screenshots of test cases updated on JIRA (in Indonesian). Check [The Screenshot of test case report in JIRA]()
+
+### Bug reports and work in JIRA
+- Several bugs found on [The training webshop](https://5nags3iycnjh547.growia.education/) and reported :
+  * Report all bugs that found. Check [The Google Sheets document here]()
+  * Bug #1. Check [the screenshot of the bug report in JIRA]()
+  * Bug #2. Check [the screenshot of the bug report in JIRA]()
+  * Bug #3. Check [the screenshot of the bug report in JIRA]()
+ 
   
 
