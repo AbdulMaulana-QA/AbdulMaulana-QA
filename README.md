@@ -81,7 +81,10 @@ Growia Education
 - [The training webshop](https://5nags3iycnjh547.growia.education/) was used to create demo test case
   * All Test Cases for GrowiaSHop eCommerce. Check [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1kBmHAIX5J_HwZGe3mzz9CqauXsa9b5EvYX_a1GtatkE/edit?usp=sharing)
   * Summary of test cases GrowiaShop eCommerce. Check [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1VWlcgBEAu--cP12V0pvOm2hvgFzetOAYtlmeUVuwtzE/edit?usp=sharing)
-  * Screenshots of test cases updated on JIRA (in Indonesian). Check [The Screenshot of test case report in JIRA]()
+  * Screenshots of test cases updated on JIRA (in Indonesian). Check [The Screenshot of test case report in JIRA](https://drive.google.com/file/d/1QOBFiYQIswxEKh1PKzIkpvSJRSlriCnr/view?usp=sharing) [The Screenshot of test case report in JIRA](https://drive.google.com/file/d/1To2YWdYT4G7IiYbMLyFAGmzZkcSLdE_2/view?usp=sharing)
+- Other Projects
+  * Screenshots of test cases updated on JIRA. Check [The Screenshot of test case report in JIRA](https://drive.google.com/file/d/1HNKyIGTTZiFfOMJ22BgJHocoXvSUfr4I/view?usp=sharing) Check [The Screenshot of test case report in JIRA](https://drive.google.com/file/d/1x_erjy7UvSKkYP13YtbmS5eiUCa5JkJv/view?usp=sharing)
+
 
 ### Bug reports and work in JIRA
 - Several bugs found on [The training webshop](https://5nags3iycnjh547.growia.education/) and reported :
