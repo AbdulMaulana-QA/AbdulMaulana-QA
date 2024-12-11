@@ -88,7 +88,7 @@ Growia Education
 
 ### Bug reports and work in JIRA
 - Several bugs found on [The training webshop](https://5nags3iycnjh547.growia.education/) and reported :
-  * Report all bugs that found. Check [The Google Sheets document here]()
+  * Report all bugs that found. Check [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1SdABKEhysQfKcZnlhdCvtOH4WEwL7mdD/edit?usp=sharing&ouid=111607565515838235838&rtpof=true&sd=true)
   * Bug #1. Check [the screenshot of the bug report in JIRA]()
   * Bug #2. Check [the screenshot of the bug report in JIRA]()
   * Bug #3. Check [the screenshot of the bug report in JIRA]()
