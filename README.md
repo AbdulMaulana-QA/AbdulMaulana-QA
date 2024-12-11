@@ -91,7 +91,7 @@ Growia Education
   * Report all bugs that found. Check [The Google Sheets document here](https://docs.google.com/spreadsheets/d/1SdABKEhysQfKcZnlhdCvtOH4WEwL7mdD/edit?usp=sharing&ouid=111607565515838235838&rtpof=true&sd=true)
   * Bug #1. Check [the screenshot of the bug report in JIRA](https://drive.google.com/file/d/1_ubUyQ2UZhPkWX3Ob7ZTvaaco-IHNWXN/view?usp=sharing)
   * Bug #2. Check [the screenshot of the bug report in JIRA](https://drive.google.com/file/d/1WDhtKuaifIir59AnAsGhhiQX6NIxDttI/view?usp=sharing)
-  * Bug #3. Check [the screenshot of the bug report in JIRA]()
+  * Bug #3. Check [the screenshot of the bug report in JIRA](https://drive.google.com/file/d/1K62GQ5EMU8vyBK2ToKaiBM03Rar9u2Wn/view?usp=sharing)
  
   
 
